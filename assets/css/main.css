@@ -327,7 +327,7 @@ a {
 
 
 @media (min-width:834px) {
-  .section7 .container7 {
+  .section7 .container {
     background-color: #9dc9c8;
     padding: 0px;
     margin: 0px;
@@ -386,7 +386,7 @@ a {
     width: 75%;
   }
 
-  .section8 .container8 {
+  .section8 .container {
     background-color: black;
   }
 
@@ -436,7 +436,7 @@ a {
 
 
 @media (min-width:476px) and (max-width:834px) {
-  .section7 .container7 {
+  .section7 .container {
     background-color: #9dc9c8;
     padding: 0px;
     margin: 0px;
@@ -499,7 +499,7 @@ a {
 
 
 
-  .section8 .container8 {
+  .section8 .container {
     background-color: black;
   }
 
@@ -551,7 +551,7 @@ a {
 
 
 @media (max-width:476px) {
-  .section7 .container7 {
+  .section7 .container {
     background-color: #9dc9c8;
     padding: 0px;
     margin: 0px;
@@ -611,7 +611,7 @@ a {
     width: 80%;
   }
 
-  .section8 .container8 {
+  .section8 .container {
     background-color: black;
   }
 
