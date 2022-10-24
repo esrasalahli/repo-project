@@ -2,10 +2,12 @@
   font-family: roboto;
   src: url(../fonts/Roboto-Regular.ttf);
 }
+
 @font-face {
   font-family: robotSlab;
   src: url(../fonts/RobotoSlab-VariableFont_wght.ttf);
 }
+
 body {
   font-family: roboto;
 }
@@ -19,11 +21,13 @@ a {
   font-family: robotSlab;
   font-weight: 700;
 }
+
 @media (min-width: 270px) and (max-width: 576px) {
   .section-head h2 {
     font-size: 26px;
   }
 }
+
 @media (min-width: 576px) and (max-width: 768px) {
   .section-head h2 {
     font-size: 32px;
@@ -33,6 +37,7 @@ a {
 #header {
   padding-top: 20px;
 }
+
 #header .all-header img {
   width: 112px;
   height: 66px;
@@ -41,12 +46,14 @@ a {
 #nav {
   padding-top: 100px;
 }
+
 #nav .all-nav ul li {
   margin: 0%;
   margin-right: 32px;
   font-size: 20px;
   font-weight: 400;
 }
+
 #nav .all-nav ul li img {
   width: 22px;
   height: 21px;
@@ -58,24 +65,28 @@ a {
   font-size: 80px;
   font-family: robotSlab;
 }
+
 #watch .all-watch .left-watch p {
   font-size: 20px;
   font-weight: 400;
 }
+
 #watch .all-watch .right-watch {
   width: 304px;
   height: 356px;
 }
+
 #watch .all-watch .right-watch img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 #box-place {
   padding-top: 87px;
 }
+
 #box-place .all-box-place {
   background: #1E4681;
   width: 460.63px;
@@ -83,12 +94,14 @@ a {
   padding: 20px;
   margin: 0 auto;
 }
+
 #box-place .all-box-place h6 {
   font-size: 25px;
   color: #fff;
   font-weight: 400;
   font-family: robotSlab;
 }
+
 #box-place .all-box-place span {
   font-size: 20px;
   color: #fff;
@@ -99,38 +112,46 @@ a {
 #course {
   padding-top: 173.38px;
 }
+
 #course .all-course .course-main {
   margin-top: 40px;
 }
+
 #course .all-course .course-main .course-content p {
   font-size: 24px;
   font-weight: 400;
 }
+
 #course .all-course .course-main .course-content p:first-child {
   margin-bottom: 50px;
 }
+
 #course .all-course .course-main .course-img {
   width: 314px;
   height: 315px;
 }
+
 #course .all-course .course-main .course-img img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 #time {
   padding-top: 95px;
 }
+
 #time .all-time .time-box h6 {
   font-size: 25px;
   font-weight: 700;
 }
+
 #time .all-time .time-box p {
   font-size: 18px;
   width: 150px;
 }
+
 #time .all-time .time-box img {
   width: 232px;
   height: 203px;
@@ -142,132 +163,166 @@ a {
     width: 52.19px;
     height: 30.75px;
   }
+
   #nav {
     padding-top: 45px;
   }
+
   #nav .all-nav ul li {
     font-size: 10px;
   }
+
   #nav .all-nav ul li img {
     width: 10.25px;
     height: 9.79px;
   }
+
   #watch .all-watch .left-watch h1 {
     font-size: 37px;
   }
+
   #watch .all-watch .left-watch p {
     font-size: 10px;
     width: 60%;
   }
+
   #watch .all-watch .right-watch {
     width: 141.66px;
     height: 165.89px;
     margin-left: 50%;
   }
+
   #box-place {
     padding-top: 45px;
   }
+
   #box-place .all-box-place {
     width: 225.36px;
     height: 110px;
   }
+
   #box-place .all-box-place h6 {
     font-size: 11px;
   }
+
   #box-place .all-box-place span {
     font-size: 10px;
   }
+
   #course {
     padding-top: 75px;
   }
+
   #course .all-course .course-main .course-content p {
     font-size: 12px;
   }
+
   #course .all-course .course-main .course-content p:first-child {
     margin-bottom: 15px;
   }
+
   #course .all-course .course-main .course-img {
     width: 146.32px;
     height: 146.78px;
     margin: auto;
-  } 
-  
+  }
+
   #time .all-time .time-box h6 {
     font-size: 12px;
   }
+
   #time .all-time .time-box p {
     font-size: 10px;
   }
+
   #time .all-time .time-box img {
     display: none;
   }
-  
+
 }
+
 @media (min-width: 576px) and (max-width: 768px) {
   #header .all-header img {
     width: 64.87px;
     height: 38.23px;
   }
+
   #nav {
     padding-top: 57px;
   }
+
   #nav .all-nav ul li {
     font-size: 12px;
   }
+
   #nav .all-nav ul li img {
     width: 12.74px;
     height: 12.16px;
   }
+
   #watch .all-watch .left-watch h1 {
     font-size: 46px;
   }
+
   #watch .all-watch .left-watch p {
     font-size: 12px;
     width: 80%;
   }
+
   #watch .all-watch .right-watch {
     width: 176.07px;
     height: 206.18px;
   }
+
   #box-place {
     padding-top: 55px;
   }
+
   #box-place .all-box-place {
     width: 280.11px;
     height: 130px;
   }
+
   #box-place .all-box-place h6 {
     font-size: 14px;
   }
+
   #box-place .all-box-place span {
     font-size: 12px;
   }
+
   #course {
     padding-top: 100px;
   }
+
   #course .all-course .course-main .course-content p {
     font-size: 14px;
   }
+
   #course .all-course .course-main .course-content p:first-child {
     margin-bottom: 15px;
   }
+
   #course .all-course .course-main .course-img {
     width: 181.86px;
     height: 182.44px;
     margin: auto;
   }
+
   #time .all-time .time-box h6 {
     font-size: 12px;
   }
+
   #time .all-time .time-box p {
     font-size: 10px;
   }
+
   #time .all-time .time-box img {
     width: 95.37px;
     height: 95.57px;
     margin-right: 75px;
   }
-  
+
 }
 
 
@@ -331,24 +386,28 @@ a {
     width: 75%;
   }
 
-.section8 .container8{
-  background-color: black;
-}
-  .allsec8{
+  .section8 .container8 {
+    background-color: black;
+  }
+
+  .allsec8 {
     margin-left: 122px;
   }
-  .allsec8 .leftside .first img{
+
+  .allsec8 .leftside .first img {
     width: 115px;
     height: 65px;
     margin-top: 50px;
   }
-  .allsec8 .leftside .second{
+
+  .allsec8 .leftside .second {
     width: 20%;
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
   }
-  .third{
+
+  .third {
     margin-top: 190px;
     padding-bottom: 90px;
     color: white;
@@ -358,16 +417,17 @@ a {
     color: white;
     width: 90%;
   }
-  
 
-  .allsec8 .rightside .firstline,.secondline{
+
+  .allsec8 .rightside .firstline,
+  .secondline {
     display: flex;
     width: 100%;
     justify-content: flex-end;
     margin-top: -80px;
   }
-  
-  .allsec8 .rightside img{
+
+  .allsec8 .rightside img {
     width: 25px;
     height: 20px;
   }
@@ -438,27 +498,32 @@ a {
 
 
 
-  
-.section8 .container8{
-  background-color: black;
-}
-  .allsec8{
+
+  .section8 .container8 {
+    background-color: black;
+  }
+
+  .allsec8 {
     margin-left: 70px;
   }
-  .allsec8 .leftside .first img{
+
+  .allsec8 .leftside .first img {
     width: 67px;
     height: 40px;
     margin-top: 29px;
   }
-  .allsec8 .leftside .second{
+
+  .allsec8 .leftside .second {
     width: 35%;
     justify-content: space-between;
     margin-top: 28px;
   }
-  .allsec8 .leftside .second img{
+
+  .allsec8 .leftside .second img {
     width: 25px;
   }
-  .third{
+
+  .third {
     margin-top: 100px;
     padding-bottom: 15px;
     color: white;
@@ -468,16 +533,17 @@ a {
     color: white;
     width: 90%;
   }
-  
 
-  .allsec8 .rightside .firstline,.secondline{
+
+  .allsec8 .rightside .firstline,
+  .secondline {
     display: flex;
     width: 100%;
     justify-content: flex-end;
     margin-top: -70px;
   }
-  
-  .allsec8 .rightside img{
+
+  .allsec8 .rightside img {
     width: 25px;
     height: 20px;
   }
@@ -545,57 +611,185 @@ a {
     width: 80%;
   }
 
-  .section8 .container8{
+  .section8 .container8 {
     background-color: black;
   }
-    .allsec8{
-      margin-left: 38px;
-    }
-    .allsec8 .leftside .first img{
-      width: 54px;
-      height: 32px;
-      margin-top: 23px;
-    }
-    .allsec8 .leftside .second{
-      width: 35%;
-      justify-content: space-between;
-      margin-top: 14px;
-    }
-    .allsec8 .leftside .second img{
-      width: 15px;
-    }
-    .third{
-      margin-top: 100px;
-      padding-bottom: 15px;
-      color: white;
-    }
-  
-    .allsec8 .rightside {
-      color: white;
-      width: 90%;
-    }
-    
-    .allsec8 .rightside .firstline,.secondline{
-      display: flex;
-      width: 100%;
-    }
-    .allsec8 .rightside .secondline p{
-      font-size: 14px;
-      margin-left: 10px;
-    }
-    .allsec8 .rightside .firstline p{
-      font-size: 12px;
-      margin-left: 10px;
-    }
-    .allsec8 .rightside .firstline{
-      display: flex;
-      width: 100%;
-      margin-top: 50px;
-    }
-    
-    .allsec8 .rightside img{
-      width: 14px;
-      height: 14px;
-    }
+
+  .allsec8 {
+    margin-left: 38px;
+  }
+
+  .allsec8 .leftside .first img {
+    width: 54px;
+    height: 32px;
+    margin-top: 23px;
+  }
+
+  .allsec8 .leftside .second {
+    width: 35%;
+    justify-content: space-between;
+    margin-top: 14px;
+  }
+
+  .allsec8 .leftside .second img {
+    width: 15px;
+  }
+
+  .third {
+    margin-top: 100px;
+    padding-bottom: 15px;
+    color: white;
+  }
+
+  .allsec8 .rightside {
+    color: white;
+    width: 90%;
+  }
+
+  .allsec8 .rightside .firstline,
+  .secondline {
+    display: flex;
+    width: 100%;
+  }
+
+  .allsec8 .rightside .secondline p {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+
+  .allsec8 .rightside .firstline p {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+
+  .allsec8 .rightside .firstline {
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .allsec8 .rightside img {
+    width: 14px;
+    height: 14px;
+  }
 }
 
+.orxan-wrapper h2 {
+  font-size: 55px;
+  font-family: 'Roboto Slab', serif;
+  margin-top: 100px;
+  margin-left: 120px;
+}
+
+.orxan-wrapper ul {
+  font-size: 24px;
+  font-family: 'Roboto', serif;
+  line-height: 36px;
+  margin-left: 120px;
+}
+
+@media screen and (max-width:834px) {
+  .orxan-wrapper h2 {
+    font-size: 32px;
+  }
+
+  .orxan-wrapper ul {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+}
+
+@media screen and (max-width:375px) {
+
+  .orxan-wrapper h2 {
+    font-size: 26px;
+    margin-left: 0;
+    margin-left: 30px;
+  }
+
+  .orxan-wrapper ul {
+    font-size: 12px;
+    line-height: 18px;
+    width: 300px;
+    margin-left: 0;
+  }
+
+
+
+}
+
+
+
+
+.orxan {
+  width: 100%;
+}
+
+.orxan h1 {
+  font-size: 55px;
+  font-family: 'Roboto Slab', serif;
+  margin-left: calc(100%/12);
+}
+
+.orxan ul {
+  display: flex;
+  margin-left: calc(100%/12);
+  flex-direction: row;
+  font-family: 'Roboto', serif;
+  list-style: none;
+  padding: 0;
+  margin-top: 50px;
+}
+
+.orxan ul li h5 {
+  font-size: 25px;
+  color: #1E4681;
+  margin: 0%;
+}
+
+.orxan ul li p {
+  font-size: 18px;
+}
+
+.orxan ul li {
+  margin-right: calc(100%/12);
+  padding: 0%;
+}
+
+@media screen and (max-width:834px) {
+  .orxan h1 {
+    font-size: 32px;
+  }
+
+  .orxan ul li h5 {
+    font-size: 15px;
+  }
+
+  .orxan ul li p {
+    font-size: 11px;
+  }
+
+}
+
+@media screen and (max-width:375px) {
+  .orxan h1 {
+    font-size: 26px;
+  }
+
+  .orxan ul {
+    flex-direction: column;
+  }
+
+  .orxan ul li h5 {
+    font-size: 12px;
+  }
+
+  .orxan ul li p {
+    font-size: 10px;
+  }
+
+  .orxan ul li {
+    margin-right: 0%;
+  }
+}
